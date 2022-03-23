@@ -9,6 +9,7 @@ class MyBlogAdminApplicationTests {
     @Test
     void contextLoads() {
         System.out.println("ssss");
+        System.out.println("bbbbb");
     }
 
 }
